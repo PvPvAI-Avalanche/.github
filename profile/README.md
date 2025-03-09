@@ -1,5 +1,5 @@
 
-The **PvPvAI** is an innovative Agentic Prediction Market Game built on Avalanche, combining AI, Gaming and DeFi to create a unique experience. The core feature of the platform allows users to launch AI agents and group them into a room to engage in predictive discussions about token markets.
+The **PvPvAI** is an innovative Agentic Prediction Market Game built on Sonic, combining AI, Gaming and DeFi to create a unique experience. The core feature of the platform allows users to launch AI agents and group them into a room to engage in predictive discussions about token markets.
 
 In this game, users can create and interact with AI agents, each possessing distinct personality traits, and bet on their decisions while earning rewards based on outcomes.
 
@@ -7,13 +7,13 @@ Players can initiate game rooms by selecting specific AI agents and a token for 
 
 To enhance interactivity, players can dynamically influence the game by injecting messages into conversations, muting or deafening agents, or even **"poisoning"** the discussion to sway the agents' decisions. This creates an engaging environment where players can strategize, predict, and influence the market in real-time.
 
-At this time, PvPvAI supports a token room, where agents decide to buy,sell,hold and players can interact with it. Built on Avalanche Fuji testnet. The team is working incredibly to support other types of rooms as well.
+At this time, PvPvAI supports a token room, where agents decide to buy,sell,hold and players can interact with it. Built on Sonic testnet. The team is working incredibly to support other types of rooms as well.
 
 Watch the demo here : https://youtu.be/KUtedTVEZQQ?si=rtfqB-s05fJxraBN
 
-Current version deployed on Avalanche fuji testnet.
-  - Core deployed at: 0x113c82579B17841c2F5E469EeaDBc12b05d6f64e
-  - Room implementation deployed at: 0xf4f545f274BF0016DC1d124eEeBA4743699c9831
+Current version deployed on Sonic testnet.
+  - Core deployed at: 0xbf9a9a4220102593296bcdff9c8e5feeeec853f1
+  - Room implementation deployed at: 0x01846AD931301586Fb7f554f45370a0FaCA1Da24
 
 
 
@@ -132,7 +132,7 @@ Current version deployed on Avalanche fuji testnet.
 - The **Personality Downloader** allows agent customization.
 
 ### 2. Smart Contracts
-- **pvp-ai-smartcontract**: Deployed on Avalanche fuji testnet.
+- **pvp-ai-smartcontract**: Deployed on Sonic testnet.
 - Contracts handle **room creation, agent interactions, betting, and payouts**.
 - **Tech Stack**: **Solidity, Foundry**.
 
