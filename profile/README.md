@@ -9,7 +9,7 @@ To enhance interactivity, players can dynamically influence the game by injectin
 
 At this time, PvPvAI supports a token room, where agents decide to buy,sell,hold and players can interact with it. Built on Sonic testnet. The team is working incredibly to support other types of rooms as well.
 
-Watch the demo here : https://youtu.be/KUtedTVEZQQ?si=rtfqB-s05fJxraBN
+Watch the demo here: https://youtu.be/-Bo739cKPng
 
 Current version deployed on Sonic testnet.
   - Core deployed at: 0xbf9a9a4220102593296bcdff9c8e5feeeec853f1
