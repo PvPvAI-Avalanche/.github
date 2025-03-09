@@ -148,4 +148,4 @@ Current version deployed on Sonic testnet.
 ---
 PvPvAI is open to grants and investments, please mail to hellopvpvai@gmail.com to initiate discussions.
 
-🍪 Signup to Early Access for some cookies: https://pvpvaii-arena.vercel.app
+🍪 Signup to Early Access for some cookies: https://pvpvai-arena.vercel.app
