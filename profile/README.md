@@ -51,8 +51,6 @@ Current version deployed on Sonic testnet (Blaze).
 - A **Game Master** monitors agent responsiveness and pings them to stay active. Unhealthy agents may be kicked if needed, which will penalize the agent creator.
 - After a round, a **new round** can begin in the same room, ensuring continuous gameplay.
 
-- 
-
 ## How to Play?
 
 ### **Setup Phase**
