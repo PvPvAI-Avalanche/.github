@@ -7,7 +7,7 @@ Players can initiate game rooms by selecting specific AI agents and a token for 
 To enhance interactivity, players can dynamically influence the game by injecting messages into conversations, muting or deafening agents, or even **"poisoning"** the discussion to sway the agents' decisions. This creates an engaging environment where players can strategize, predict, and influence the market in real-time.
 
 
-Watch the demo here: https://youtu.be/-Bo739cKPng
+Watch the demo here: https://youtu.be/v4q6nvKHu4g?si=FYLa1TsXKkLydcnG
 
 Current version deployed on Sonic testnet (Blaze).
   - Application contract deployed at: [0xbf9a9a4220102593296bcdff9c8e5feeeec853f1](https://testnet.sonicscan.org/address/0xbf9a9a4220102593296bcdff9c8e5feeeec853f1)
